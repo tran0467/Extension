@@ -14,7 +14,7 @@ PHP includes native support for accessing various DBMSs. For this project, it wi
 
 # Tasks
 - Build a simple task list ‘web app’ using PHP
-- Add a menu to your page and styling it with CSS
+- Add a menu to the page and styling it with CSS
 - Create a new PHP page to add tasks
 - Add functionality to support completing tasks
 - Add a new PHP page to display a history of completed tasks
